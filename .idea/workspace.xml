@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cc3842-6ede-452a-9eec-8d828b7b0f33" name="Changes" comment="created sesil.txt" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Yevhen96x"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yevhen96x/Cat.git",
+    "accountId": "cfb2322c-8179-4b1f-a347-1cfc1be20e8e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="35CkhhXIGkz4fC8KBKz3heQLdqh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cc3842-6ede-452a-9eec-8d828b7b0f33" name="Changes" comment="" />
+      <created>1762621561734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762621561734</updated>
+      <workItem from="1762621562721" duration="22183000" />
+    </task>
+    <task id="LOCAL-00001" summary="changed test.txt">
+      <option name="closed" value="true" />
+      <created>1762621803831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762621803831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created queue.txt">
+      <option name="closed" value="true" />
+      <created>1762621825355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762621825355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added and changed Ihor.txt, Ivan.txt, maksym.html">
+      <option name="closed" value="true" />
+      <created>1762622100165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622100165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed Ivan.txt and maksym.html">
+      <option name="closed" value="true" />
+      <created>1762622165193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622165193</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added fail.txt">
+      <option name="closed" value="true" />
+      <created>1762622318297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622318297</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed fail.txt">
+      <option name="closed" value="true" />
+      <created>1762622361195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622361195</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed Ivan.txt">
+      <option name="closed" value="true" />
+      <created>1762622446880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622446880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created and changed september.json">
+      <option name="closed" value="true" />
+      <created>1762622554402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622554402</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created trans.txt">
+      <option name="closed" value="true" />
+      <created>1762622604370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622604370</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created sesil.txt">
+      <option name="closed" value="true" />
+      <created>1762622796091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762622796091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created sesil.txt">
+      <option name="closed" value="true" />
+      <created>1763323018870</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763323018870</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Cat" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Doggy" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed test.txt" />
+    <MESSAGE value="created queue.txt" />
+    <MESSAGE value="added and changed Ihor.txt, Ivan.txt, maksym.html" />
+    <MESSAGE value="changed Ivan.txt and maksym.html" />
+    <MESSAGE value="added fail.txt" />
+    <MESSAGE value="changed fail.txt" />
+    <MESSAGE value="changed Ivan.txt" />
+    <MESSAGE value="created and changed september.json" />
+    <MESSAGE value="created trans.txt" />
+    <MESSAGE value="created sesil.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="created sesil.txt" />
+  </component>
+</project>
