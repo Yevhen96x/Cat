@@ -1,0 +1,16 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n# Editor-based HTTP Client requests\r\n/httpRequests/\r\n# Datasource local storage ignored files\r\n/dataSources/\r\n/dataSources.local.xml\r\n
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision 9785515cdc3a8698e8371ca1da3d11a974c98362)
++++ b/.idea/.gitignore	(date 1764012220716)
+@@ -6,3 +6,7 @@
+ # Datasource local storage ignored files
+ /dataSources/
+ /dataSources.local.xml
++.idea/
++!.idea/codeStyles
++!.idea/fileTemplates
++
