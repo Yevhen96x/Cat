@@ -1,0 +1,15 @@
+Index: Ivan.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Ivan.txt b/Ivan.txt
+deleted file mode 100644
+--- a/Ivan.txt	(revision 9785515cdc3a8698e8371ca1da3d11a974c98362)
++++ /dev/null	(revision 9785515cdc3a8698e8371ca1da3d11a974c98362)
+@@ -1,5 +0,0 @@
+-aaaaa
+-
+-ssdasdasd
+-
+-
