@@ -6,11 +6,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-.idea/
-!.idea/codeStyles
-!.idea/fileTemplates
-.idea/workspace.xml
-.idea/shelf/
-.idea/vcs.xml
-
-
